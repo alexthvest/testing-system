@@ -18,6 +18,12 @@ University project
   - docker
   - docker-compose
 
+## You should read about
+
+- React and Typescript
+- [TailwindCSS](https://tailwindcss.com/)
+- docker and docker-compose
+
 ## Running project
 
 ```shell
