@@ -35,4 +35,7 @@ University project
   # Run server-side
   cd src/server/TestingSystem.Web
   dotnet watch # run server in development mode with hot-reload
+
+   # Or run via docker-compose
+   docker-compose up --build # runs db, client and server
 ```
