@@ -1,0 +1,25 @@
+{
+  "extensions": {
+    "recommendations": [
+      "bradlc.vscode-tailwindcss",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "ms-dotnettools.csharp",
+      "jchannon.csharpextensions"
+    ]
+  },
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "client",
+      "path": "./src/client"
+    },
+    {
+      "name": "server",
+      "path": "./src/server"
+    }
+  ]
+}
