@@ -4,7 +4,7 @@ export const App: React.FC = () => {
   const [title, setTitle] = useState("Failed to fetch title");
 
   useEffect(() => {
-    fetch("/hello")
+    fetch("/api/hello")
       .then((r) => r.text())
       .then(setTitle);
   }, []);
