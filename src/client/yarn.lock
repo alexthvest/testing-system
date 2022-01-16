@@ -265,6 +265,11 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
+"@tabler/icons@^1.51.0":
+  version "1.51.0"
+  resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-1.51.0.tgz#e5c4882afd84a463fda9a265b66fee4791c72950"
+  integrity sha512-YjA7yurn5oThr7HnNaMA9CeK7Pgo7LNPOKPxZ2gj02qPoJbcde4047MPSYLRDTvVrOanEzB8fTFixjee51x1cw==
+
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
