@@ -5,6 +5,7 @@ module.exports = {
       sans: ["Inter"],
     },
     colors: {
+      transparent: "transparent",
       black: "#1C1C1C",
       white: "#FFFFFF",
       green: {

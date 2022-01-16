@@ -1,0 +1,18 @@
+.button-primary,
+.button-secondary {
+  @apply rounded-md px-6 py-2;
+  @apply font-medium;
+  @apply transition;
+}
+
+.button-primary {
+  @apply bg-green-300 text-white;
+  @apply hover:bg-green-500;
+  @apply active:bg-green-700;
+}
+
+.button-secondary {
+  @apply bg-gray-300 text-black;
+  @apply hover:bg-gray-500;
+  @apply active:bg-gray-700;
+}
