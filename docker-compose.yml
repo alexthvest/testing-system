@@ -18,12 +18,12 @@ services:
     links:
       - db
 
-  application:
-    build: .
-    ports:
-      - "5000:80"
-    depends_on:
-      - db
+        #  application:
+        #    build: .
+        #    ports:
+        #      - "5000:80"
+        #    depends_on:
+        #      - db
 
 volumes:
   pgdata:
